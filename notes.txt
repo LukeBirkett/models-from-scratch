@@ -4,6 +4,12 @@ https://www.youtube.com/watch?v=VmbA0pi2cRQ
 - Has an seciton on both maths and codes
 - Code side is easy to follow
 - Maths highlighted that I need a more verbose explanation
+- Uses Pandas and no Numpy
 
-=====================================================================
-Test change
+====================================
+Linear Regression Theory and Coding Series by CodingLane
+https://www.youtube.com/playlist?list=PLuhqtP7jdD8AFocJuxC6_Zz0HepAWL9cF
+
+- Full breakdown of mathematical theory including Gradient Descent algo
+- Coding uses  only Numpy, no pandas (good)
+- Implementation arrears to take a more Linear Algebra and Matrix approach
