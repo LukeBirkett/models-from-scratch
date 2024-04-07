@@ -1,0 +1,9 @@
+Linear Regression From Scratch in Python (Mathematical) by NeuralNine
+https://www.youtube.com/watch?v=VmbA0pi2cRQ
+
+- Has an seciton on both maths and codes
+- Code side is easy to follow
+- Maths highlighted that I need a more verbose explanation
+
+=====================================================================
+
