@@ -17,3 +17,17 @@ https://drive.google.com/file/d/1LBbrWRHoaZXeUmLHfeNqCD5rrWIa_dcp/view
 - Uses gradient descent as optimization algo
 - I have implemented coding approach along with stepwise notes on understanding
 
+===================================
+Gradient Descent, Step-by-Step by Joshua Stramer
+https://www.youtube.com/watch?v=sDv4f4s2SB8
+
+- This video helped me understand that gradient works as an omptimzation 
+  method by converting the problem to identifying the minimum
+- You can use the cost function to create an inverted bell curve 
+- We want to find the cost function at the bottom of the bell curve
+- If you take the derivative of cost function on bell curve you get the slope
+- The slope at the bottom of the curve is zero
+- Gradient descent iterates to until we are close to 0 (<0.09)
+- I need to implement the concept of this video into code to ensure I had
+  understood correctly
+
