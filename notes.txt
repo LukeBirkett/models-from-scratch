@@ -30,4 +30,4 @@ https://www.youtube.com/watch?v=sDv4f4s2SB8
 - Gradient descent iterates to until we are close to 0 (<0.09)
 - I need to implement the concept of this video into code to ensure I had
   understood correctly
-
+- Implement in a neat notebook with latex etc
